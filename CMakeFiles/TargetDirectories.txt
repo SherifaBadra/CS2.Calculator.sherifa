@@ -1,0 +1,3 @@
+/Users/manalabbas/CS2.Calculator.Sherifa/CMakeFiles/calculator.dir
+/Users/manalabbas/CS2.Calculator.Sherifa/CMakeFiles/edit_cache.dir
+/Users/manalabbas/CS2.Calculator.Sherifa/CMakeFiles/rebuild_cache.dir
